@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/](https://www.linkedin.com/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique)
 
 - 💬 Ask me about **React, Javascript**
 
