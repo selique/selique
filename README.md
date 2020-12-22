@@ -19,13 +19,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selique" alt="selique" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/selique" target="blank"><img src="https://img.shields.io/twitter/follow/selique?logo=twitter&style=for-the-badge" alt="selique" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/selique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="selique" height="30" width="40" /></a>
-<a href="https://dev.to/selique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="selique" height="30" width="40" /></a>
-<a href="https://twitter.com/selique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="selique" height="30" width="40" /></a>
+<a href="https://dev.to/selique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="selique" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/selique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="selique" height="30" width="40" /></a>
 <a href="https://codesandbox.com/selique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="selique" height="30" width="40" /></a>
 <a href="https://fb.com/selique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="selique" height="30" width="40" /></a>
