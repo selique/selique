@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moisés Lopes Ferreira</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selique" alt="selique" /> </p>
-
 - 🔭 I’m currently working on **Selique.Tech** with freelancer on FunctionOne
 
 - 🌱 I’m currently learning **GoLang**
@@ -15,7 +13,7 @@
 
 - ⚡ Fun fact **Chai over Coffee**
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selique&label=Profile%20views&color=0e75b6&style=flat" alt="selique" /> </p>
 
