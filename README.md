@@ -21,10 +21,6 @@
 
 <p align="left"> <a href="https://twitter.com/selique" target="blank"><img src="https://img.shields.io/twitter/follow/selique?logo=twitter&style=for-the-badge" alt="selique" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/selique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="selique" height="30" width="40" /></a>
