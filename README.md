@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selique" alt="selique" /> </p>
 
-- 🔭 I’m currently working on **Try Consultoria**
+- 🔭 I’m currently working on **Selique.Tech** with freelancer on FunctionOne
 
 - 🌱 I’m currently learning **GoLang**
 
