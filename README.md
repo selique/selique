@@ -2,7 +2,12 @@
 
 <h3>A passionate frontend developer from Brazil</h3>
 
-<p>- 🔭 I&rsquo;m currently working on **Selique.Tech** with freelancer on FunctionOne - 🌱 I&rsquo;m currently learning **GoLang** - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) - 💬 Ask me about **React, React Native, Javascript, Node.js, Progressive Web Apps, Micro-Front-ends, Server-side-redering** - 📫 How to reach me **moiseslopesferreira@outlook.com** - ⚡ Fun fact **Chai over Coffee**</p>
+- 🔭 I&rsquo;m currently working on **Selique.Tech** with freelancer on FunctionOne 
+- 🌱 I&rsquo;m currently learning **GoLang** 
+- 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
+- 💬 Ask me about **React, React Native, Javascript, Node.js, Progressive Web Apps, Micro-Front-ends, Server-side-redering** 
+- 📫 How to reach me **moiseslopesferreira@outlook.com** 
+- ⚡ Fun fact **Chai over Coffee**</p>
 
 <h3>A passionate frontend developer from Brazil</h3>
 
