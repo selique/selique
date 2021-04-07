@@ -13,7 +13,7 @@
 
 <p><img alt="selique" src="https://komarev.com/ghpvc/?username=selique&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="selique" src="https://github-profile-trophy.vercel.app/?username=selique" /></a></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=selique)](https://github.com/selique/github-profile-trophy)
 
 <h3>Connect with me:</h3>
 
