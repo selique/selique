@@ -23,4 +23,4 @@
 
 <h3>Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/selique"><img alt="selique" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="float:left; height:25px; width:105px" /></a> <img alt="selique" src="https://github-readme-stats.vercel.app/api/top-langs?username=selique&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="float:left" /></p>
+<p><a href="https://www.buymeacoffee.com/selique"><img alt="selique" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="float:left; height:14px; width:45px" /></a></p>
