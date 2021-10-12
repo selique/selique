@@ -13,9 +13,11 @@
 
 <p><img alt="selique" src="https://komarev.com/ghpvc/?username=selique&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/879?logoColor=white%26project=All%26recentMS=NaN%26showProject=true)
+[![wakatime](https://wakatime.com/badge/user/b499571d-c337-4047-99a9-d7e3f38e5fcc.svg)](https://wakatime.com/@b499571d-c337-4047-99a9-d7e3f38e5fcc)
 
 <a href="https://app.daily.dev/selique"><img src="https://api.daily.dev/devcards/c95b9ea9e68e4807a4c2eddaf4b5a009.png?r=772" width="400" alt="Moises lopes ferreira's Dev Card"/></a>
+
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 
 <h3>Connect with me:</h3>
 
