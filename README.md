@@ -5,7 +5,7 @@
 - 🔭 I&rsquo;m currently working on **Selique.Tech** CTO, **FTD Educação** Sênior Front-end Tech Design System, CTO **Reativo-Startup**
 - 🌱 I&rsquo;m currently learning **GoLang** 
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
-- 💬 Ask me about **React, React Native, TypeScript, Javascript, Node.js, Progressive Web Apps PWAs, Micro-Front-ends, Design System Automation** 
+- 💬 Ask me about **React, React Native, TypeScript, Javascript, Node.js, Supabase, Progressive Web Apps PWAs, Micro-Front-ends, Design System Automation** 
 - 📫 How to reach me **moiseslopesferreira@outlook.com** 
 - ⚡ Fun fact **Chai over Coffee**</p>
 
