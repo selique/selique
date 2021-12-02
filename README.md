@@ -2,7 +2,7 @@
 
 <h3>A passionate frontend developer from Brazil</h3>
 
-- 🔭 I&rsquo;m currently working on **Selique.Tech** 
+- 🔭 I&rsquo;m currently working on **Selique.Tech** CTO, **FTD Educação** Sênior Front-end Tech Design System, CTO **Reativo-Startup**
 - 🌱 I&rsquo;m currently learning **GoLang** 
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
 - 💬 Ask me about **React, React Native, Javascript, Node.js, Progressive Web Apps, Micro-Front-ends, Server-side-redering** 
