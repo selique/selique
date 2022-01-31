@@ -8,9 +8,10 @@
 - 📫 How to reach me **moiseslopesferreira@outlook.com** 
 - ⚡ Fun fact **Chai over Coffee**</p>
 
+[![wakatime](https://wakatime.com/badge/user/b499571d-c337-4047-99a9-d7e3f38e5fcc.svg)](https://wakatime.com/@b499571d-c337-4047-99a9-d7e3f38e5fcc)
 <p>
 <img alt="selique" src="https://komarev.com/ghpvc/?username=selique&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />&nbsp;
-[![wakatime](https://wakatime.com/badge/user/b499571d-c337-4047-99a9-d7e3f38e5fcc.svg)](https://wakatime.com/@b499571d-c337-4047-99a9-d7e3f38e5fcc)
+
 </p> 
 
 ## My Socials
