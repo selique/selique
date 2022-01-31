@@ -23,7 +23,7 @@
 
 ## Support:
 
-<p><a href="https://www.buymeacoffee.com/selique"><img alt="selique" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="float:left; height:140px; width:450px" /></a></p>
+<p><a href="https://www.buymeacoffee.com/selique"><img alt="selique" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="float:left; height:140px;" /></a></p>
 
 ## Connect with me:
 
