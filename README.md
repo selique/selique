@@ -2,8 +2,8 @@
 
 ## A passionate frontend developer from Brazil
 
-- 🔭 I&rsquo;m currently working on [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) CTO, **DASA** Sênior Design System Enginner
-- 🌱 I&rsquo;m currently learning **GoLang** & **Figma**
+- 🔭 I&rsquo;m currently working on [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) CTO
+- 🌱 I&rsquo;m currently learning **Ionic** & **Figma** 
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
 - 💬 Ask me about **React, React Native, TypeScript, Javascript, Node.js, Supabase, Progressive Web Apps PWAs, Micro-Front-ends, Design System Automation** 
 - 📫 How to reach me **moiseslopesferreira@outlook.com** 
