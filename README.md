@@ -2,10 +2,11 @@
 
 ## A passionate frontend developer from Brazil
 
-- 🔭 I&rsquo;m currently working on [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) CTO
-- 🌱 I&rsquo;m currently learning **Ionic** & **Figma** 
+- 🔭 I&rsquo;m currently working on [**2Mundos**](https://www.2mundos.com.br/) like Senior Engineer
+- 🏗 Founded consulting [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) like CTO
+- 🌱 I&rsquo;m currently learning **TRPC**, **Golang**, **Bun**, **Fastyfy**
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
-- 💬 Ask me about **React, React Native, TypeScript, Javascript, Node.js, Supabase, Progressive Web Apps PWAs, Micro-Front-ends, Design System Automation** 
+- 💬 Ask me about **React, React Native, TypeScript, Javascript, Node.js, Supabase, Progressive Web Apps PWAs, Micro-Front-ends, Design System (Front-end), System Design Architecture** 
 - 📫 How to reach me **moiseslopesferreira@outlook.com** 
 - ⚡ Fun fact **Chai over Coffee**</p>
 
