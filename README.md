@@ -9,7 +9,7 @@
 - 🏗 Founded consulting [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) like CTO
 - 🌱 I&rsquo;m currently learning **TRPC**, **Golang**, **Bun**, **Fastyfy**
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
-- 💬 Ask me about **React, React Native, TypeScript, Javascript, Node.js, Supabase, Progressive Web Apps PWAs, Micro-Front-ends, Design System (Front-end), System Design Architecture** 
+- 💬 Ask me about **React, React Native, TypeScript, Javascript, Node.js, Supabase, Progressive Web Apps PWAs, Micro-Front-ends, Design System UI, System Design Architecture Cloud SRE** 
 - 📫 How to reach me **moiseslopesferreira@outlook.com** 
 - ⚡ Fun fact **Chai over Coffee**</p>
 <p>
