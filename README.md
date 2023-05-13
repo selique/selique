@@ -13,7 +13,7 @@
 - 📫 How to reach me **moiseslopesferreira@outlook.com** 
 - ⚡ Fun fact **Chai over Coffee**
 
-## My Activities coding this year IDE from WakaTime
+## My Activities coding this last year IDE from WakaTime
 <img alt="selique wakatime this year tracker coding IDE" src="https://wakatime.com/share/@selique/bfd2d37d-6bba-48d3-98a4-311c230e0bf6.svg" />
 
 ## My Socials
