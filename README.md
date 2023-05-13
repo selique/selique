@@ -5,7 +5,7 @@
 <a href="https://wakatime.com/@b499571d-c337-4047-99a9-d7e3f38e5fcc"><img src="https://wakatime.com/badge/user/b499571d-c337-4047-99a9-d7e3f38e5fcc.svg" alt="Total time coded since Sep 23 2015" /></a>
 </p>
 
-- 🔭 I&rsquo;m currently working on [**2Mundos**](https://www.2mundos.com.br/) like Senior Engineer
+- 🔭 I&rsquo;m currently [**Open to Work**](https://www.linkedin.com/in/selique/) like Senior Engineer
 - 🏗 Founded consulting [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) like CTO
 - 🌱 I&rsquo;m currently learning **TRPC**, **Golang**, **Bun**, **Fastyfy**
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
