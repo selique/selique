@@ -11,8 +11,10 @@
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
 - 💬 Ask me about **React, React Native, TypeScript, Javascript, Node.js, Supabase, Progressive Web Apps PWAs, Micro-Front-ends, Design System UI, System Design Architecture Cloud SRE** 
 - 📫 How to reach me **moiseslopesferreira@outlook.com** 
-- ⚡ Fun fact **Chai over Coffee**</p>
-<p>
+- ⚡ Fun fact **Chai over Coffee**
+
+## My Activities coding this year IDE from WakaTime
+<img alt="selique wakatime this year tracker coding IDE" src="https://wakatime.com/share/@selique/bfd2d37d-6bba-48d3-98a4-311c230e0bf6.svg" />
 
 ## My Socials
 
@@ -31,5 +33,3 @@
 ## Connect with me:
 
 <p><a href="https://codepen.io/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="40" height="40" /></a> <a href="https://dev.to/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="40" height="40" /></a> <a href="https://linkedin.com/in/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="40" height="40" /></a> <a href="https://codesandbox.com/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" width="40" height="40" /></a> <a href="https://fb.com/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="40" height="40" /></a> <a href="https://instagram.com/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="40" height="40" /></a> <a href="https://www.behance.net/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" width="40" height="40" /></a> <a href="https://medium.com/@selique" target="blank"><img alt="@selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="40" height="40" /></a> <a href="https://www.hackerrank.com/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" width="40" height="40" /></a></p>
-
-
