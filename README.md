@@ -1,5 +1,5 @@
 # Hi 👋, I&#39;m Mois&eacute;s Lopes Ferreira, Software Developer from Brazil
-## FullStack with focus on Frontend, Design System UI, Serverless
+## FullStack with specialized on Frontend, Design System UI, Serverless
 
 <p><img alt="selique" src="https://komarev.com/ghpvc/?username=selique&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />
 <a href="https://wakatime.com/@b499571d-c337-4047-99a9-d7e3f38e5fcc"><img src="https://wakatime.com/badge/user/b499571d-c337-4047-99a9-d7e3f38e5fcc.svg" alt="Total time coded since Sep 23 2015" /></a>
