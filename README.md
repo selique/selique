@@ -20,8 +20,9 @@
 <a href="https://app.daily.dev/selique"><img src="https://github.com/selique/selique/blob/master/devcard.svg" width="400" alt="Moises lopes ferreira's Dev Card"/></a>
 
 ## List last Bookmarks Reads
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
 
 ## My Socials
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511953636909)
