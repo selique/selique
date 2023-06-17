@@ -4,8 +4,8 @@
 </p>
 
 ## FullStack Javascript/TypeScript with specialized on Frontend, Design System UI, Serverless
-- 🔭 I&rsquo;m currently [**Open to Work**](https://www.linkedin.com/in/selique/) like Senior Engineer
-  - enter in contact schedulling a meeting into my calendar https://cal.com/selique/reuniao
+- 🔭 I&rsquo;m currently work [**Instivo**](https://www.instivo.com.br/) like Senior Engineer Front-end & Design System Advocate & Tech Evangelist
+  - if you would like enter in contact schedulling a meeting into my calendar https://cal.com/selique/reuniao
 - 🏗 Founded [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) 
 - 🌱 I&rsquo;m currently learning **Micro-Front-Ends**, **TRPC**, **GRPC**, **GoLang**, **React Sever-side-Components**
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
