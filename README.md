@@ -7,7 +7,7 @@
 - 🔭 Currently [**Open to Work**](https://www.linkedin.com/in/selique/)
   - if you would like enter in contact schedulling a meeting into my calendar https://cal.com/selique/reuniao
 - 🏗 Founded [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) 
-- 🌱 I&rsquo;m currently learning **Micro-Front-Ends**, **TRPC**, **GRPC**, **GoLang**, **React Sever-side-Components**
+- 🌱 I&rsquo;m currently learning **Universal Design System UI**, **Micro-Front-Ends**, **TRPC**, **GRPC**, **GoLang**, **React Sever-side-Components**
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
 - 💬 Ask me about **React, React Native, TypeScript, Javascript, Node.js, Supabase, Progressive Web Apps PWAs, Micro-Front-ends, Design System UI, System Design Architecture Cloud SRE** 
 - 📫 How to reach me **moiseslopesferreira@outlook.com** 
