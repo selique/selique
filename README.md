@@ -4,7 +4,7 @@
 </p>
 
 ## FullStack Javascript/TypeScript with specialized on Frontend, Design System UI, Serverless
-- 🔭 Currently [[**Open to Work**]](https://www.linkedin.com/in/selique/)
+- 🔭 Currently [**Open to Work**](https://www.linkedin.com/in/selique/)
   - if you would like enter in contact schedulling a meeting into my calendar https://cal.com/selique/reuniao
 - 🏗 Founded [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) 
 - 🌱 I&rsquo;m currently learning **Micro-Front-Ends**, **TRPC**, **GRPC**, **GoLang**, **React Sever-side-Components**
