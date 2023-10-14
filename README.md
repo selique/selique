@@ -3,6 +3,8 @@
 <a href="https://wakatime.com/@b499571d-c337-4047-99a9-d7e3f38e5fcc"><img src="https://wakatime.com/badge/user/b499571d-c337-4047-99a9-d7e3f38e5fcc.svg" alt="Total time coded since Sep 23 2015" /></a>
 </p>
 
+[![Selique's GitHub stats-Dark](https://github-readme-stats-selique.vercel.app/api?username=selique&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/selique/github-readme-stats#gh-dark-mode-only)
+
 ## FullStack Javascript/TypeScript with specialized on Frontend, Design System UI, Serverless
 - 🔭 Currently [**Open to Work**](https://www.linkedin.com/in/selique/)
   - if you would like enter in contact schedulling a meeting into my calendar https://cal.com/selique/reuniao
@@ -39,8 +41,8 @@
 ## My Activities coding last year IDE from WakaTime
 <img alt="selique wakatime this year tracker coding IDE" src="https://wakatime.com/share/@selique/bfd2d37d-6bba-48d3-98a4-311c230e0bf6.svg" />
 
-[![Selique's WakaTime stats](github-readme-stats-selique.vercel.app/api/wakatime?username=selique&layout=compact)](https://github.com/selique/github-readme-stats)
-[![Selique's GitHub stats-Dark](github-readme-stats-selique.vercel.app/api?username=selique&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/selique/github-readme-stats#gh-dark-mode-only)
+[![Selique's WakaTime stats](https://github-readme-stats-selique.vercel.app/api/wakatime?username=selique&layout=compact)](https://github.com/selique/github-readme-stats)
+
 
 ## Connect with me:
 <p><a href="https://codepen.io/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="40" height="40" /></a> <a href="https://dev.to/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="40" height="40" /></a> <a href="https://linkedin.com/in/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="40" height="40" /></a> <a href="https://codesandbox.com/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" width="40" height="40" /></a> <a href="https://fb.com/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="40" height="40" /></a> <a href="https://instagram.com/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="40" height="40" /></a> <a href="https://www.behance.net/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" width="40" height="40" /></a> <a href="https://medium.com/@selique" target="blank"><img alt="@selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="40" height="40" /></a> <a href="https://www.hackerrank.com/selique" target="blank"><img alt="selique" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" width="40" height="40" /></a></p>
