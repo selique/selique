@@ -16,6 +16,9 @@
 ## My Activities coding last year IDE from WakaTime
 <img alt="selique wakatime this year tracker coding IDE" src="https://wakatime.com/share/@selique/bfd2d37d-6bba-48d3-98a4-311c230e0bf6.svg" />
 
+[![Selique wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=selique)](https://github.com/selique/github-readme-stats)
+
+
 ## #DevCard Daily.dev Weekly Reading Goal
 <a href="https://app.daily.dev/selique"><img src="https://github.com/selique/selique/blob/master/devcard.svg" width="400" alt="Moises lopes ferreira's Dev Card"/></a>
 
