@@ -25,7 +25,7 @@
 - [ExpressoTS - The Developer-Friendly TypeScript Framework for Server-Side Applications](https://app.daily.dev/posts/yFijD2ZlV?utm_source=rss&utm_medium=bookmarks&utm_campaign=8apc8a4Me)
 - [Node.js 14 and 16 are being deprecated in August 2023 – Vercel](https://app.daily.dev/posts/0hMPFRAog?utm_source=rss&utm_medium=bookmarks&utm_campaign=8apc8a4Me)
 - [Mutual connections now available on user profile](https://app.daily.dev/posts/G0cfAu7gY?utm_source=rss&utm_medium=bookmarks&utm_campaign=8apc8a4Me)
-- [Visual Editing: Click-to-edit content for headless CMSes – Vercel](https://app.daily.dev/posts/JCDoRixzi?utm_source=rss&utm_medium=bookmarks&utm_campaign=8apc8a4Me)
+- [Visual Editing: Click-to-edit content for headless CMSes on Vercel – Vercel](https://app.daily.dev/posts/JCDoRixzi?utm_source=rss&utm_medium=bookmarks&utm_campaign=8apc8a4Me)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Socials
