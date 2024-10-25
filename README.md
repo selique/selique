@@ -6,8 +6,8 @@
 [![Selique's GitHub stats-Dark](https://github-readme-stats-selique.vercel.app/api?username=selique&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/selique/github-readme-stats#gh-dark-mode-only)
 
 ## FullStack Javascript/TypeScript with specialized on Frontend, Design System UI, Serverless
-- 🔭 Currently [**Open to Work**](https://www.linkedin.com/in/selique/)
-  - if you would like enter in contact schedulling a meeting into my calendar https://cal.com/selique/reuniao
+- 🏡 Tech Lead on Cali.li Tech Lead on Cali.li (https://www.linkedin.com/in/selique/)
+  - if you would like to enter in contact to schedule a meeting into my calendar https://cal.com/selique/reuniao
 - 🏗 Founded [**Selique.Tech**](https://www.linkedin.com/company/selique-tech) 
 - 🌱 I&rsquo;m currently learning **Universal Design System UI**, **Micro-Front-Ends**, **TRPC**, **GRPC**, **GoLang**, **React Sever-side-Components**
 - 👨&zwj;💻 All of my projects are available at [https://www.linkedin.com/in/selique](https://www.linkedin.com/in/selique) 
