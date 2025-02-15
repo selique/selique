@@ -165,7 +165,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/selique/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/252147296685391872/)
 
-### Coding Activity (Past Year) — WakaTime Tracker
+### Coding Activity — WakaTime Tracker
 <img alt="Coding Activity" src="https://wakatime.com/share/@selique/bfd2d37d-6bba-48d3-98a4-311c230e0bf6.svg" />
 
 ### My DevCard on Daily.dev
